@@ -1,0 +1,25 @@
+data;
+
+param demanda = 100;
+
+param	capM	:=
+1	40
+2	60	;
+
+param 	custoMI	:
+	1		2		:=
+1	2000	1700
+2	1600	1100	;
+
+param	capMI	:
+	1		2		:=
+1	30		30
+2	50		50		;
+
+param	custoIP	:=
+1	400
+2	800	;
+
+param	capIP	:=
+1	70
+2	70	;
