@@ -10,3 +10,5 @@ In AMPL, the modeling is divided into two files: .dat and .mod.
 The .dat file includes the declaration of the parameters, such as the sets and it's elements.
 
 And the .mod file is the modeling itself of the problem, which includes the objective function and the restriction that the variables are subjected to.
+
+The submitted files were graded 100% on the assignment.
