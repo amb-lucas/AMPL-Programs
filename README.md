@@ -1,7 +1,7 @@
 # AMPL-Programs
 AMPL codes for the Optimization discipline at UFPE
 
-The Optimization discipline at UFPE required the modeling of a few problems related to optimization context, which can be found in the Exercises.pdf on this repository (pdf in Portuguese).
+The discipline required the modeling of a few problems related to the optimization context, which can be found in the Exercises.pdf on this repository (pdf in Portuguese).
 
 The chosen modeling language was AMPL.
 
